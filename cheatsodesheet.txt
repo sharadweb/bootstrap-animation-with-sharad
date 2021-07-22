@@ -1,0 +1,10 @@
+
+touch .gitignore
+git config --global user.name code with sharad
+git config --global user.email sharadkumarsharma.bca@gmail.com
+git init
+git add .
+git commit -m Initial Commit
+git status #just for see
+git remote add origin ssh url.git
+git push origin master
